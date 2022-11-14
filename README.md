@@ -28,6 +28,7 @@
 11/02 - testcase1, result1 추가
 11/05 - testcase2, result2, testcase3, result3 추가
 11/09 - 기한 연장
+11/14 testcase3 whitespace 제거, BpTree.h, .cpp의 printFrequentPatterns 함수 
 ```
 
 ### 2. 자주들어오는 질문 
